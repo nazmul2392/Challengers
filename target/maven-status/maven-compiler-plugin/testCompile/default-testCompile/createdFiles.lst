@@ -1,0 +1,5 @@
+com\careerhack\stefdef\UserRegister.class
+com\careerhack\stefdef\Login.class
+com\careerhack\pages\HomePage.class
+com\careerhack\common\FlightBase.class
+com\careerhack\runners\TestRunner.class
